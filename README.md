@@ -1,6 +1,6 @@
 # BloX micro-ROS
 
-The BloX micro-ROS communicates with micro controllers using [micro-ROS](https://micro.ros.org/). 
+The BloX micro-ROS communicates with micro controllers using [micro-ROS](https://micro.ros.org/). It is an advanced ROSbloX module and requires the user to install additional software on their computer and implement/build/upload code to their micro controllers.
 
 ## Data
 
