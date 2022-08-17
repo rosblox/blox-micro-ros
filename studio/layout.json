@@ -1,0 +1,13 @@
+{
+  "configById": {
+    "SourceInfo!4kprafp": {}
+  },
+  "globalVariables": {},
+  "userNodes": {},
+  "linkedGlobalVariables": [],
+  "playbackConfig": {
+    "speed": 1,
+    "messageOrder": "receiveTime"
+  },
+  "layout": "SourceInfo!4kprafp"
+}
