@@ -4,7 +4,7 @@ The BloX micro-ROS communicates with micro controllers using [micro-ROS](https:/
 
 ## Data
 
-The BloX micro-ROS publishes data according to the code run on the micro controller.
+The BloX micro-ROS publishes data according to the code which runs on the micro controller.
 
 ## Programming a Teensy with micro-ROS in the Arduino IDE
 
@@ -22,6 +22,6 @@ Works for all Teensies supported by micro-ROS -> [Supported Hardware](https://mi
    Note, they are listed as incompatible, but work.
 
 
-## More information
+### Additional background information
 https://github.com/micro-ROS/micro_ros_arduino  
 https://micro.ros.org/docs/tutorials/core/teensy_with_arduino/
