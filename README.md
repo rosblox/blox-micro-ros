@@ -18,9 +18,10 @@ Works for all Teensies supported by micro-ROS -> [Supported Hardware](https://mi
 4. Patch Teensyduino to work with micro-ROS library  
     a) Go to Arduino + Teensyduino installation folder `cd $ARDUINO_PATH/hardware/teensy/avr/`  
     b) Replace platform.txt `curl https://raw.githubusercontent.com/micro-ROS/micro_ros_arduino/main/extras/patching_boards/platform_teensy.txt > platform.txt` 
-5. Compile and upload one of the micro-ROS examples. Note, they are listed as incompatible, but work.
+5. Compile and upload one of the micro-ROS examples.  
+   Note, they are listed as incompatible, but work.
 
 
 ## More information
-https://github.com/micro-ROS/micro_ros_arduino
+https://github.com/micro-ROS/micro_ros_arduino  
 https://micro.ros.org/docs/tutorials/core/teensy_with_arduino/
