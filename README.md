@@ -19,7 +19,7 @@ Works for all Teensies supported by micro-ROS -> [Supported Hardware](https://mi
     a) Go to Arduino + Teensyduino installation folder `cd $ARDUINO_PATH/hardware/teensy/avr/`  
     b) Replace platform.txt `curl https://raw.githubusercontent.com/micro-ROS/micro_ros_arduino/main/extras/patching_boards/platform_teensy.txt > platform.txt` 
 5. Compile and upload one of the micro-ROS examples.  
-   Note, they are listed as incompatible, but work.
+   Note, they work even though they are listed as incompatible.
 
 
 ### Additional background information
