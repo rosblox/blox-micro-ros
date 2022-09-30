@@ -6,7 +6,7 @@ The BloX micro-ROS communicates with microcontrollers using [micro-ROS](https://
 
 The BloX micro-ROS publishes data according to the code which runs on the microcontroller.
 
-## Programming a Teensy with micro-ROS in the Arduino IDE
+## Example: Programming a Teensy with micro-ROS in the Arduino IDE
 
 Works for all Teensies supported by micro-ROS -> [Supported Hardware](https://micro.ros.org/docs/overview/hardware/).
 
