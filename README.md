@@ -21,7 +21,6 @@ Works for all Teensies supported by micro-ROS -> [Supported Hardware](https://mi
 5. Compile and upload one of the micro-ROS examples.  
    Note, they work even though they might be listed as incompatible.
 
-
 ### Additional background information
 https://github.com/micro-ROS/micro_ros_arduino  
 https://micro.ros.org/docs/tutorials/core/teensy_with_arduino/
